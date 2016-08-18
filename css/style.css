@@ -9,8 +9,14 @@ h1 {
 	text-align: left;
 }
 
-h2 {
+div {
 	color: white;
 }
 
+.high {
+	color: red;
+}
 
+.low {
+	color: blue;
+}
