@@ -8,9 +8,11 @@ Comfort: 8
 
 Completeness: 10
 
-## Questions? I put some specific questions in my code. 
+## Questions? 
 
 What questions do you have? What would like us to take a close look at when reviewing your HW?
+
+	I put some specific questions in my code. 
 	
 	When I put in dynamic data for my templates in the html, like {{counter}}, should I always assume or use {{counter}} as a key in an object I'll define in my index.js? Like is that the basic way I should use dynamic data, as a key in an object I'll define later. At first I wanted to make {{counter}} correspond to a number that would change as the user pushes + and - but then I got stuck and looked back at the example we did in class, and just kind of followed that method. 
 
